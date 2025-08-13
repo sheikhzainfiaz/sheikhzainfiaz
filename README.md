@@ -20,8 +20,8 @@
 | Project Name          | Description                                            | Links |
 |-----------------------|--------------------------------------------------------|-------|
 | **Attend Smart**      | Face recognition–based attendance system with a sleek UI | [View Repo](https://github.com/sheikhzainfiaz/Attend_Smart) |
-| **Brand Identity Pack** | Complete branding design package for a startup         | [View Repo](https://github.com/sheikhzainfiaz/Brand_Identity_Pack) |
-| **M.Z TECH Website**  | A modern tech blog & resource hub                       | [View Repo](https://github.com/sheikhzainfiaz/MZ_Tech_Website) |
+| **Comtact Book** | Complete branding For best performace Contact Book         | [View Repo](https://github.com/sheikhzainfiaz/ContactBook) |
+| **ConnectFourGame**  | First Project Ever                      | [View Repo](https://github.com/sheikhzainfiaz/ConnectFourGame) |
 
 ---
 
