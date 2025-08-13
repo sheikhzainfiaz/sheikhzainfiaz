@@ -19,7 +19,7 @@
 
 | Project Name       | Description | Links |
 |--------------------|-------------|-------|
-| **Creative UI Kit** | A modern, responsive UI component library | [View Repo](#) |
+| **Attend Smart** | A modern, responsive UI component library | [View Repo](github.com/sheikhzainfiaz/attend_smart) |
 | **Brand Identity Pack** | Complete branding design for a startup | [View Repo](#) |
 | **M.Z TECH Website** | Tech blog & resource hub | [View Repo](#) |
 
