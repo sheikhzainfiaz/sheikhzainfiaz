@@ -1,6 +1,5 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:BF5AF2,100:FF375F&height=230&section=header&text=Sheikh%20Zain%20Fiaz&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=iOS%20and%20macOS%20Developer&descAlignY=57&descSize=20&animation=fadeIn" width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="Sheikh Zain Fiaz" />
 </p>
 
 <p align="center">
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/sheikhzainfiaz?style=for-the-badge&color=BF5AF2&labelColor=0d1117" />
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 ## ` > whoami `
 
@@ -37,7 +36,7 @@ struct ZainFiaz: Developer, Designer {
 }
 ```
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 ## 🍏 Apple Platforms
 
@@ -61,7 +60,7 @@ struct ZainFiaz: Developer, Designer {
   <sub>Wireframing • User Flows • Accessibility (HIG-first) • Branding • Logo Design • Brand Kits</sub>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 ## 🛰️ Featured Projects
 
@@ -85,11 +84,7 @@ struct ZainFiaz: Developer, Designer {
   </tr>
 </table>
 
-<!-- 🎬 Drop an app demo GIF here, e.g.:
-<p align="center"><img src="assets/app-demo.gif" width="280" /></p>
--->
-
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 ## 📡 Telemetry
 
@@ -102,7 +97,6 @@ struct ZainFiaz: Developer, Designer {
   <img src="https://streak-stats.demolab.com?user=sheikhzainfiaz&hide_border=true&background=0d1117&ring=0A84FF&fire=FF375F&currStreakLabel=BF5AF2&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 
-<!-- Animated contribution snake (needs .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheikhzainfiaz/sheikhzainfiaz/output/github-snake-dark.svg" />
@@ -111,7 +105,7 @@ struct ZainFiaz: Developer, Designer {
   </picture>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 ## 🌐 Connect
 
@@ -127,7 +121,6 @@ struct ZainFiaz: Developer, Designer {
   <sub>— Steve Jobs</sub>
 </p>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF375F,50:BF5AF2,100:0A84FF&height=120&section=footer" width="100%" />
+  <img src="assets/mac.svg" width="100%" alt="macOS terminal running swift run ZainFiaz" />
 </p>
