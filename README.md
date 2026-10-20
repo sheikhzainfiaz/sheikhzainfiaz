@@ -1,11 +1,11 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:BF5AF2,100:FF375F&height=230&section=header&text=Sheikh%20Zain%20Fiaz&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=iOS%20%26%20macOS%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:BF5AF2,100:FF375F&height=230&section=header&text=Sheikh%20Zain%20Fiaz&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=iOS%20and%20macOS%20Developer&descAlignY=57&descSize=20&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sheikhzainfiaz">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Mono,Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A84FF&center=true&vCenter=true&width=620&lines=import+SwiftUI+%F0%9F%8D%8F;Building+for+iPhone%2C+iPad+%26+Mac;Designing+interfaces+people+love;Pixels+%2B+Code+%3D+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A84FF&center=true&vCenter=true&width=620&lines=import+SwiftUI;Building+for+iPhone%2C+iPad+and+Mac;Designing+interfaces+people+love;Pixels+%2B+Code+%3D+Experience" alt="Typing SVG" />
   </a>
 </p>
 
@@ -95,18 +95,14 @@ struct ZainFiaz: Developer, Designer {
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sheikhzainfiaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0A84FF&icon_color=BF5AF2&text_color=c9d1d9&ring_color=FF375F" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhzainfiaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=0A84FF&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhzainfiaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=0A84FF&text_color=c9d1d9&hide=jupyter%20notebook,makefile,tsql" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sheikhzainfiaz&hide_border=true&background=0d1117&ring=0A84FF&fire=FF375F&currStreakLabel=BF5AF2&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sheikhzainfiaz&bg_color=0d1117&color=c9d1d9&line=0A84FF&point=BF5AF2&area=true&area_color=0A84FF&hide_border=true" />
-</p>
-
-<!-- Animated contribution snake (needs the GitHub Action below) -->
+<!-- Animated contribution snake (needs .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheikhzainfiaz/sheikhzainfiaz/output/github-snake-dark.svg" />
